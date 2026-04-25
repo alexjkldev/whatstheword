@@ -1,66 +1,31 @@
 # Privacy Policy
 
-This Privacy Policy describes how **Guess the Word** ("we", "our", or "the app") handles information when you use our mobile application. We are committed to protecting your privacy.
+*Last updated: April 19, 2026*
 
----
+What's the word? ("the App") is developed by AlexJKL. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
 
-## Data We Collect
+## Information We Collect
 
-The app stores game statistics, settings, and progress locally on your device using device storage. This data **never leaves your device** and is not transmitted to our servers.
+The App stores all user-created content (wheels, sectors, spin logs, settings) locally on your device. We do not collect personal information such as names, email addresses, or accounts.
 
-We do not require you to create an account or provide any personal information.
+The following third-party services are used in the App and may collect certain data:
 
----
+- **Google AdMob** — Collects advertising ID and device information to serve ads. On iOS, personalized ads require your consent via App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
+- **Yandex Mobile Ads** — Serves ads and collects advertising ID and device information. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
+- **Firebase Analytics & Crashlytics** (Android only) — Collects app usage statistics, crash reports, and device information. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
 
-## Advertising
+## Data Storage
 
-We use **Google AdMob** to display advertisements. AdMob may collect and use data to show personalized ads, including:
-
-- Your device's advertising ID (IDFA)  
-- IP address  
-- Usage data
-
-On iOS, we request permission to track your device for advertising purposes using Apple's **App Tracking Transparency (ATT)** framework. You can allow or deny this request at any time. If denied, **non-personalized ads** will be shown instead.
-
-You can remove all ads with a **one-time in-app purchase**.
-
-For more information on how Google uses data, visit: [Google Privacy Policy](https://policies.google.com/privacy)
-
----
-
-## In-App Purchases
-
-The app offers a **one-time purchase to remove ads**. Purchases are processed by **Apple App Store** or **Google Play Store**. We do not collect or store your payment information.
-
----
-
-## Third-Party Services
-
-The app uses the following third-party services:
-
-- **Google AdMob** — advertising  
-- **Apple App Store / Google Play** — in-app purchases  
-
-These services have their own privacy policies and data practices.
-
----
+All app data is stored locally on your device. No personal data is transmitted to our servers.
 
 ## Children's Privacy
 
-The app is **not directed to children under the age of 13**. We do not knowingly collect personal information from children.
-
----
+The App does not knowingly collect personal information from children. The third-party services listed above may have their own age restrictions.
 
 ## Changes to This Policy
 
-We may update this Privacy Policy from time to time. Any changes will be reflected in an updated version of the app.
-
----
+We may update this Privacy Policy from time to time. Changes will be posted within the App or on this page.
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us through the **App Store** or **Google Play** store page.
-
----
-
-**Last updated:** March 2026
+For questions about this Privacy Policy, please contact us through the App Store or Google Play Store listing.
