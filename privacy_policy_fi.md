@@ -1,38 +1,31 @@
-Viimeksi päivitetty: maaliskuu 2026
+# Tietosuojakäytäntö
 
-## Johdanto
-Tämä tietosuojakäytäntö kuvaa, miten sovellus «Угадай слово» («me», «meidän» tai «sovellus») käsittelee tietoja mobiilisovelluksen käytön aikana. Suhtaudumme vakavasti yksityisyytesi suojaamiseen.
+*Viimeksi päivitetty: 19. huhtikuuta 2026*
 
-## Mitä tietoja keräämme
-Sovellus tallentaa pelitilastot, asetukset ja edistymisen paikallisesti laitteellesi. Nämä tiedot eivät koskaan poistu laitteelta eikä niitä siirretä palvelimillemme.
+Mikä sänä? ("Sovellus") on AlexJKL:n kehittämä. Tämä tietosuojakäytäntö kuvaa, miten tietojasi kerätään, käytetään ja jaetaan, kun käytät Sovellusta.
 
-Emme vaadi tilin luomista emmekä henkilökohtaisten tietojen antamista.
+## Keräämämme tiedot
 
-## Mainokset
-Käytämme Google AdMobia mainosten näyttämiseen. AdMob voi kerätä ja käyttää tietoja mainosten personointiin, mukaan lukien laitteen mainostunnisteen (IDFA), IP-osoitteen ja käyttötiedot.
+Sovellus tallentaa kaiken käyttäjän luoman sisällön (pyörät, sektorit, pyörityslokit, asetukset) paikallisesti laitteellesi. Emme kerää henkilötietoja, kuten nimiä, sähköpostiosoitteita tai tilejä.
 
-iOS:ssä pyydämme lupaa laitteen seurantaan mainostarkoituksiin Applen App Tracking Transparency (ATT) -mekanismin avulla. Voit sallia tai estää seurannan milloin tahansa. Jos kieltäydyt, sinulle näytetään ei-personoituja mainoksia.
+Sovelluksessa käytetään seuraavia kolmannen osapuolen palveluja, jotka voivat kerätä tiettyjä tietoja:
 
-Voit poistaa kaikki mainokset kertaluonteisella ostolla sovelluksen sisällä.
+- **Google AdMob** — Kerää mainostunnisteen ja laitetietoja mainosten näyttämiseksi. iOS:ssä personoidut mainokset edellyttävät suostumustasi App Tracking Transparency -toiminnon kautta. [Googlen tietosuojakäytäntö](https://policies.google.com/privacy)
+- **Yandex Mobile Ads** — Näyttää mainoksia ja kerää mainostunnisteen ja laitetietoja. [Yandexin tietosuojakäytäntö](https://yandex.com/legal/confidential/)
+- **Firebase Analytics ja Crashlytics** (vain Android) — Kerää sovelluksen käyttötilastoja, virheraporteja ja laitetietoja. [Firebasen tietosuojakäytäntö](https://firebase.google.com/support/privacy)
 
-Lisätietoja siitä, miten Google käyttää tietoja: policies.google.com/privacy
+## Tietojen tallennus
 
-## Sovelluksen sisäiset ostot
-Sovellus tarjoaa kertaluonteisen ostoksen mainosten poistamiseksi. Ostot käsitellään Apple App Storen tai Google Play Storen kautta. Emme kerää tai säilytä maksutietoja.
+Kaikki sovelluksen tiedot tallennetaan paikallisesti laitteellesi. Henkilötietoja ei siirretä palvelimillemme.
 
-## Kolmannen osapuolen palvelut
-Sovellus käyttää seuraavia kolmannen osapuolen palveluja:
+## Lasten yksityisyys
 
-- Google AdMob — mainokset  
-- Apple App Store / Google Play — sovelluksen sisäiset ostot  
+Sovellus ei tietoisesti kerää lasten henkilötietoja. Yllä mainituilla kolmannen osapuolen palveluilla voi olla omat ikärajoituksensa.
 
-Näillä palveluilla on omat tietosuojakäytäntönsä.
+## Muutokset tähän käytäntöön
 
-## Lasten tietosuoja
-Sovellus ei ole tarkoitettu alle 13-vuotiaille lapsille. Emme tietoisesti kerää lasten henkilötietoja.
-
-## Tietosuojakäytännön muutokset
-Voimme ajoittain päivittää tätä tietosuojakäytäntöä. Kaikki muutokset näkyvät sovelluksen päivitetyssä versiossa.
+Voimme päivittää tätä tietosuojakäytäntöä ajoittain. Muutokset julkaistaan Sovelluksessa tai tällä sivulla.
 
 ## Yhteystiedot
-Jos sinulla on kysyttävää tästä tietosuojakäytännöstä, ota yhteyttä App Storen tai Google Playn kautta.
+
+Tätä tietosuojakäytäntöä koskevissa kysymyksissä ota meihin yhteyttä App Storen tai Google Play Storen sovelluslistauksen kautta.
