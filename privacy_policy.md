@@ -1,18 +1,18 @@
 # Privacy Policy
 
-*Last updated: April 19, 2026*
+*Last updated: May 23, 2026*
 
-What's the word? ("the App") is developed by AlexJKL. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
+What's the Word? ("the App") is developed by AlexJKL. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
 
 ## Information We Collect
 
-The App stores all user-created content (wheels, sectors, spin logs, settings) locally on your device. We do not collect personal information such as names, email addresses, or accounts.
+The App stores all user-created content (game progress, settings) locally on your device. We do not collect personal information such as names, email addresses, or accounts.
 
 The following third-party services are used in the App and may collect certain data:
 
-- **Google AdMob** — Collects advertising ID and device information to serve ads. On iOS, personalized ads require your consent via App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
-- **Yandex Mobile Ads** — Serves ads and collects advertising ID and device information. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
-- **Firebase Analytics & Crashlytics** (Android only) — Collects app usage statistics, crash reports, and device information. [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
+- **Google AdMob** — Collects advertising ID, device information, ad interactions (clicks, impressions, which ads you have seen), and SDK diagnostics (crash and performance data) to serve and measure ads. On iOS, personalized ads require your consent via App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
+- **Yandex Mobile Ads** — Serves ads and collects advertising ID, device information, ad interactions, and SDK diagnostics. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
+- **Firebase (Google)** — Crashlytics collects crash and error reports: stack traces, OS version, device model, and installation identifier. Firebase Analytics collects anonymous app usage events and device identifier. [Google Privacy Policy](https://policies.google.com/privacy)
 
 ## Data Storage
 
@@ -28,4 +28,4 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 
 ## Contact
 
-For questions about this Privacy Policy, please contact us through the App Store or Google Play Store listing.
+If you have questions about this Privacy Policy or want to contact the developer, you can reach out through the App or via the App Store or Google Play Store listing. When you contact us by email, we receive your email address, the content of your message and any attachments. This information is used solely to respond to your inquiry and improve the App. We do not share it with third parties.

@@ -1,18 +1,18 @@
 # Tietosuojakäytäntö
 
-*Viimeksi päivitetty: 19. huhtikuuta 2026*
+*Viimeksi päivitetty: 23. toukokuuta 2026*
 
-Mikä sänä? ("Sovellus") on AlexJKL:n kehittämä. Tämä tietosuojakäytäntö kuvaa, miten tietojasi kerätään, käytetään ja jaetaan, kun käytät Sovellusta.
+What's the Word? ("Sovellus") on AlexJKL:n kehittämä. Tämä tietosuojakäytäntö kuvaa, miten tietojasi kerätään, käytetään ja jaetaan, kun käytät Sovellusta.
 
 ## Keräämämme tiedot
 
-Sovellus tallentaa kaiken käyttäjän luoman sisällön (pyörät, sektorit, pyörityslokit, asetukset) paikallisesti laitteellesi. Emme kerää henkilötietoja, kuten nimiä, sähköpostiosoitteita tai tilejä.
+Sovellus tallentaa kaiken käyttäjän luoman sisällön (pelin edistyminen, asetukset) paikallisesti laitteellesi. Emme kerää henkilötietoja, kuten nimiä, sähköpostiosoitteita tai tilejä.
 
 Sovelluksessa käytetään seuraavia kolmannen osapuolen palveluja, jotka voivat kerätä tiettyjä tietoja:
 
-- **Google AdMob** — Kerää mainostunnisteen ja laitetietoja mainosten näyttämiseksi. iOS:ssä personoidut mainokset edellyttävät suostumustasi App Tracking Transparency -toiminnon kautta. [Googlen tietosuojakäytäntö](https://policies.google.com/privacy)
-- **Yandex Mobile Ads** — Näyttää mainoksia ja kerää mainostunnisteen ja laitetietoja. [Yandexin tietosuojakäytäntö](https://yandex.com/legal/confidential/)
-- **Firebase Analytics ja Crashlytics** (vain Android) — Kerää sovelluksen käyttötilastoja, virheraporteja ja laitetietoja. [Firebasen tietosuojakäytäntö](https://firebase.google.com/support/privacy)
+- **Google AdMob** — Kerää mainostunnisteen, laitetietoja, tietoa mainosvuorovaikutuksista (klikkaukset, näytöt, näkemäsi mainokset) ja SDK-diagnostiikkaa (kaatumis- ja suorituskykytiedot) mainosten näyttämistä ja mittaamista varten. iOS:ssä personoidut mainokset edellyttävät suostumustasi App Tracking Transparency -toiminnon kautta. [Googlen tietosuojakäytäntö](https://policies.google.com/privacy)
+- **Yandex Mobile Ads** — Näyttää mainoksia ja kerää mainostunnisteen, laitetietoja, tietoa mainosvuorovaikutuksista ja SDK-diagnostiikkaa. [Yandexin tietosuojakäytäntö](https://yandex.com/legal/confidential/)
+- **Firebase (Google)** — Crashlytics kerää kaatumis- ja virheraportteja: pinojäljet, käyttöjärjestelmäversion, laitemallin ja asennustunnisteen. Firebase Analytics kerää anonyymejä sovelluksen käyttötapahtumia ja laitetunnisteen. [Googlen tietosuojakäytäntö](https://policies.google.com/privacy)
 
 ## Tietojen tallennus
 
@@ -28,4 +28,4 @@ Voimme päivittää tätä tietosuojakäytäntöä ajoittain. Muutokset julkaist
 
 ## Yhteystiedot
 
-Tätä tietosuojakäytäntöä koskevissa kysymyksissä ota meihin yhteyttä App Storen tai Google Play Storen sovelluslistauksen kautta.
+Jos sinulla on kysyttävää tästä tietosuojakäytännöstä tai haluat ottaa yhteyttä kehittäjään, voit ottaa meihin yhteyttä Sovelluksen kautta tai App Storen tai Google Play Storen sovelluslistauksen kautta. Kun otat meihin yhteyttä sähköpostitse, saamme sähköpostiosoitteesi, viestisi sisällön ja mahdolliset liitteet. Käytämme näitä tietoja yksinomaan kyselyysi vastaamiseen ja Sovelluksen parantamiseen. Emme jaa niitä kolmansille osapuolille.
