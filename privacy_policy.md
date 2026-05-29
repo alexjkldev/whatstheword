@@ -1,6 +1,6 @@
 # Privacy Policy
 
-*Last updated: May 23, 2026*
+*Last updated: May 29, 2026*
 
 What's the Word? ("the App") is developed by AlexJKL. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
 
@@ -12,6 +12,7 @@ The following third-party services are used in the App and may collect certain d
 
 - **Google AdMob** — Collects advertising ID, device information, ad interactions (clicks, impressions, which ads you have seen), and SDK diagnostics (crash and performance data) to serve and measure ads. On iOS, personalized ads require your consent via App Tracking Transparency. [Google Privacy Policy](https://policies.google.com/privacy)
 - **Yandex Mobile Ads** — Serves ads and collects advertising ID, device information, ad interactions, and SDK diagnostics. [Yandex Privacy Policy](https://yandex.com/legal/confidential/)
+- **Unity Ads** — Serves ads and collects advertising ID, device information, ad interactions, and SDK diagnostics. [Unity Privacy Policy](https://unity.com/legal/privacy-policy)
 - **Firebase (Google)** — Crashlytics collects crash and error reports: stack traces, OS version, device model, and installation identifier. Firebase Analytics collects anonymous app usage events and device identifier. [Google Privacy Policy](https://policies.google.com/privacy)
 
 ## Data Storage
