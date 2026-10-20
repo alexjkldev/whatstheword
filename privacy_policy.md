@@ -1,8 +1,8 @@
 # Privacy Policy
 
-*Last updated: May 29, 2026*
+*Last updated: October 20, 2026*
 
-What's the Word? ("the App") is developed by AlexJKL. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
+What's the Word? ("the App") is developed by AlexJKL Oy. This Privacy Policy describes how your information is collected, used, and shared when you use the App.
 
 ## Information We Collect
 
@@ -28,5 +28,7 @@ The App does not knowingly collect personal information from children. The third
 We may update this Privacy Policy from time to time. Changes will be posted within the App or on this page.
 
 ## Contact
+
+The App is developed and published by **AlexJKL Oy** (Business ID 3656955-7, Finland). Email: [support@alexjkl.fi](mailto:support@alexjkl.fi)
 
 If you have questions about this Privacy Policy or want to contact the developer, you can reach out through the App or via the App Store or Google Play Store listing. When you contact us by email, we receive your email address, the content of your message and any attachments. This information is used solely to respond to your inquiry and improve the App. We do not share it with third parties.

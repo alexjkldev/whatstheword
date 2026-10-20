@@ -1,8 +1,8 @@
 # Tietosuojakäytäntö
 
-*Viimeksi päivitetty: 23. toukokuuta 2026*
+*Viimeksi päivitetty: 20. lokakuuta 2026*
 
-What's the Word? ("Sovellus") on AlexJKL:n kehittämä. Tämä tietosuojakäytäntö kuvaa, miten tietojasi kerätään, käytetään ja jaetaan, kun käytät Sovellusta.
+What's the Word? ("Sovellus") on AlexJKL Oy:n kehittämä. Tämä tietosuojakäytäntö kuvaa, miten tietojasi kerätään, käytetään ja jaetaan, kun käytät Sovellusta.
 
 ## Keräämämme tiedot
 
@@ -28,5 +28,7 @@ Sovellus ei tietoisesti kerää lasten henkilötietoja. Yllä mainituilla kolman
 Voimme päivittää tätä tietosuojakäytäntöä ajoittain. Muutokset julkaistaan Sovelluksessa tai tällä sivulla.
 
 ## Yhteystiedot
+
+Sovelluksen kehittää ja julkaisee **AlexJKL Oy** (Y-tunnus 3656955-7, Suomi). Sähköposti: [support@alexjkl.fi](mailto:support@alexjkl.fi)
 
 Jos sinulla on kysyttävää tästä tietosuojakäytännöstä tai haluat ottaa yhteyttä kehittäjään, voit ottaa meihin yhteyttä Sovelluksen kautta tai App Storen tai Google Play Storen sovelluslistauksen kautta. Kun otat meihin yhteyttä sähköpostitse, saamme sähköpostiosoitteesi, viestisi sisällön ja mahdolliset liitteet. Käytämme näitä tietoja yksinomaan kyselyysi vastaamiseen ja Sovelluksen parantamiseen. Emme jaa niitä kolmansille osapuolille.
